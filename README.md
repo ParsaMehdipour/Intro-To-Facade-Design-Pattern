@@ -16,3 +16,6 @@ Subsystem classes aren’t aware of the facade’s existence. They operate withi
 
 4. The Client uses the facade instead of calling the subsystem
 objects directly.
+
+Image and Description source: Dive Into DESIGN PATTERNS by Alexander Shvets <br/>
+Link to the book : https://refactoring.guru/design-patterns/book
